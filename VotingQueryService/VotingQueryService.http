@@ -1,0 +1,6 @@
+@VotingQueryService_HostAddress = http://localhost:5297
+
+GET {{VotingQueryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
