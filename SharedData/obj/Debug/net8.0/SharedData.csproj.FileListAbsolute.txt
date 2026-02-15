@@ -1,0 +1,12 @@
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\bin\Debug\net8.0\SharedData.deps.json
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\bin\Debug\net8.0\SharedData.dll
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\bin\Debug\net8.0\SharedData.pdb
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.AssemblyInfoInputs.cache
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.AssemblyInfo.cs
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.sourcelink.json
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.dll
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\refint\SharedData.dll
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\SharedData.pdb
+C:\Users\DanielMolnar\OneDrive\Desktop\Discord elkezdett projektek\VotingSystem\SharedData\obj\Debug\net8.0\ref\SharedData.dll

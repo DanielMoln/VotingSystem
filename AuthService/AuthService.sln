@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingResultService", "..\V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingQueryService", "..\VotingQueryService\VotingQueryService.csproj", "{BA5F38DA-35CA-48DF-86C3-40FF2DA985AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBusService", "..\EventBusService\EventBusService.csproj", "{BF72D2BE-FE81-4C79-8A35-6580D8488DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BA5F38DA-35CA-48DF-86C3-40FF2DA985AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA5F38DA-35CA-48DF-86C3-40FF2DA985AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA5F38DA-35CA-48DF-86C3-40FF2DA985AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF72D2BE-FE81-4C79-8A35-6580D8488DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF72D2BE-FE81-4C79-8A35-6580D8488DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF72D2BE-FE81-4C79-8A35-6580D8488DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF72D2BE-FE81-4C79-8A35-6580D8488DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
